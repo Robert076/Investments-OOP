@@ -1,0 +1,3 @@
+-32000 | Name: Stock2 | Type: Stock | Buy Price: $100 | Sell price: $20 | Shares: 400
+-3 | Name: Option2 | Type: Option | Buy Price: $15 | Sell price: $10 | Strike price: 12 | Type: PUT
+5 | Name: Option1 | Type: Option | Buy Price: $10 | Sell price: $20 | Strike price: 15 | Type: CALL
